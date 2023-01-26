@@ -23,7 +23,7 @@ Two Excel files:
 
 ### Shortcuts
 
-- [ERD](https://github.com/Ahmadhha/ETL-Project2/blob/main/ERD/QuickDBD-CrowdfundingSQL.png), preview: <br><br> ![ERD-Diagram](https://github.com/Ahmadhha/ETL-Project2/tree/main/ERD) <br>
+- [ERD Diagram](https://github.com/Ahmadhha/ETL-Project2/blob/main/ERD/QuickDBD-CrowdfundingSQL.png)
 
 - [Extraction and Transformation Notebook](https://github.com/Ahmadhha/ETL-Project2/blob/main/ETL_Mini_Project_AAbdelrahman.ipynb)
 
